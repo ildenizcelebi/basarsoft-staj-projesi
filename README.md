@@ -30,14 +30,20 @@ npm run dev
 
 Özellikler
 •Geometri (Point, LineString, Polygon) ekleme, düzenleme, silme
+
 •PostgreSQL + PostGIS üzerinde saklama
+
 •React & OpenLayers arayüzünde gösterim
+
 •Filtreleme, arama ve sayfalama (pagination)
+
 •Kullanıcı dostu UI ve responsive tasarım
 
 Notlar
 •backend/appsettings.Development.json repo’ya girmez, sadece kendi bilgisayarında bulunur.
+
 •frontend/.env dosyasında VITE_API_BASE_URL backend’in portuna göre ayarlanmalıdır.
+
 Örnek .env içeriği: VITE_API_BASE_URL=http://localhost:5213/api
 
 ---
