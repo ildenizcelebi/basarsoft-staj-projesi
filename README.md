@@ -14,6 +14,7 @@ Proje iki ana klasörden oluşur:
 ```bash
 cd backend
 dotnet run
+```
 
 •Swagger UI: http://localhost:5213/swagger
 •API kökü: http://localhost:5213/api
@@ -23,6 +24,7 @@ dotnet run
 cd frontend
 npm install
 npm run dev
+```
 
 •Uygulama: http://localhost:5173
 
