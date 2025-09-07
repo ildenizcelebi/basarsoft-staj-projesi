@@ -3,7 +3,7 @@
 Bu repo, 2025 Başarsoft staj sürecimde geliştirdiğim harita tabanlı web uygulamasını içerir.  
 Proje iki ana klasörden oluşur:
 
-- **backend/** → ASP.NET Core98, PostgreSQL + PostGIS, Entity Framework, Unit of Work
+- **backend/** → ASP.NET Core 9, PostgreSQL + PostGIS, Entity Framework, Unit of Work
 - **frontend/** → React, Vite, OpenLayers, TailwindCSS
 
 ---
@@ -11,7 +11,7 @@ Proje iki ana klasörden oluşur:
 ## Çalıştırma
 
 ### 1. Backend
-```bash
+'''bash
 cd backend
 dotnet run
 
@@ -19,7 +19,7 @@ dotnet run
 •API kökü: http://localhost:5213/api
 
 ### 2. Frontend
-```bash
+'''bash
 cd frontend
 npm install
 npm run dev
