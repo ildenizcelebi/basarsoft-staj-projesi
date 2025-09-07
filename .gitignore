@@ -1,0 +1,30 @@
+# --- .NET ---
+**/bin/
+**/obj/
+*.user
+*.rsuser
+*.suo
+*.log
+
+# --- Node / React ---
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+npm-debug.log*
+yarn-*.log
+pnpm-*.log
+
+# --- Config / Secrets ---
+*.env
+*.env.*.local
+frontend/.env*
+backend/.env*
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.json
+!**/appsettings.json   # sadece örnek dosya repo'da kalsın
+
+# --- OS ---
+.DS_Store
+Thumbs.db
