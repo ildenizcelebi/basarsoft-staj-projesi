@@ -16,9 +16,8 @@ cd backend
 dotnet run
 ```
 
-•Swagger UI: http://localhost:5213/swagger
-
-•API kökü: http://localhost:5213/api
+- Swagger UI: http://localhost:5213/swagger
+- API kökü: http://localhost:5213/api
 
 ### 2. Frontend
 ```bash
@@ -27,7 +26,7 @@ npm install
 npm run dev
 ```
 
-•Uygulama: http://localhost:5173
+- Uygulama: http://localhost:5173
 
 Özellikler
 
